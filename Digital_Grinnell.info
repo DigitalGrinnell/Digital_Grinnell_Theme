@@ -1,5 +1,5 @@
 ; $Id: Digital_Grinnell.info $ 
-name = Digital_Grinnell
+name = Digital Grinnell Theme
 description = Artisteer-generated theme for Digital Grinnell.  Re-worked to use Bootstrap base theme.
 screenshot = theme-screenshot.png
 version = 7.x.1
